@@ -6,7 +6,7 @@
 
 *以上是输出Excel文件的示例。*
 
-## 此项目鉴于 [ryankrumenacker/ports-betting-arbitrage-project](https://openai.com](https://github.com/ryankrumenacker/sports-betting-arbitrage-project)
+## 此项目鉴于 [ryankrumenacker/ports-betting-arbitrage-project](https://github.com/ryankrumenacker/sports-betting-arbitrage-project)
 
 项目修改而来。
 
