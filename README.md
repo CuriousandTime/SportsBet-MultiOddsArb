@@ -35,4 +35,6 @@
 
 4.表格中项目名称全部替换为中文
 
-5.不需要倒来倒去，点击 [Colab_AutomaticRobot]([https://colab.research.google.com/drive/1DbPgAVf0D_Q_bmYM20R5zxgKsqftWjgt?usp=sharing](https://colab.research.google.com/drive/12AEObDy5F6VkHBSCQ605j6MpicLm1Q8Y#scrollTo=9d71f761)) 就可以直接运行。
+5.不需要倒来倒去，点击  就可以直接运行。
+
+[Colab_AutomaticRobot]([https://colab.research.google.com/drive/1DbPgAVf0D_Q_bmYM20R5zxgKsqftWjgt?usp=sharing](https://colab.research.google.com/drive/12AEObDy5F6VkHBSCQ605j6MpicLm1Q8Y#scrollTo=9d71f761))
