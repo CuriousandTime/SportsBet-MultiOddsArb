@@ -1,4 +1,4 @@
-# Statistical Arbitrage for Sports Betting Project
+# 体育博彩多平台赔率差统计套利
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/113403062/190924275-629eaf18-183c-4781-81a2-fd0337143ba9.jpg" alt="animated"/>
