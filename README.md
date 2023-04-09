@@ -6,7 +6,7 @@
 
 *以上是输出Excel文件的示例。*
 
-## 此项目鉴于 [ryankrumenacker/ports-betting-arbitrage-project]([https://openai.com](https://github.com/ryankrumenacker/sports-betting-arbitrage-project))
+## 此项目鉴于 [ryankrumenacker/ports-betting-arbitrage-project](https://openai.com](https://github.com/ryankrumenacker/sports-betting-arbitrage-project)
 
 项目修改而来。
 
@@ -35,10 +35,6 @@
 
 4.表格中项目名称全部替换为中文
 
-5.不需要倒来倒去，点击
-
- [Colab_AutomaticRobot](https://colab.research.google.com/drive/12AEObDy5F6VkHBSCQ605j6MpicLm1Q8Y#scrollTo=9d71f761)
-
-就可以直接运行。
+5.不需要倒来倒去，点击[Colab_AutomaticRobot](https://colab.research.google.com/drive/12AEObDy5F6VkHBSCQ605j6MpicLm1Q8Y#scrollTo=9d71f761)就可以直接运行。
 
 
