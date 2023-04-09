@@ -6,9 +6,7 @@
 
 *以上是输出Excel文件的示例。*
 
-## 此项目鉴于 
-[ryankrumenacker/ports-betting-arbitrage-project](https://github.com/ryankrumenacker/sports-betting-arbitrage-project)
-项目修改而来。
+
 
 利用**实时体育赔率 API**（https://the-odds-api.com/） 获取数据，整理统计后在在全球即将到来的体育赛事中寻找赔率差的套利机会。========================================================
 ## 简单的比喻：
