@@ -1,5 +1,5 @@
-# 体育博彩多平台赔率差统计套利
-
+#体育博彩多平台赔率差异统计套装
+的
 <p align="center">
   <img src="https://github.com/CuriousandTime/SportsBetting-Multiplatform-OddsSpread-StatisticalArbitrage/blob/main/Colab_AutomaticRobot.PNG" alt="animated"/>
 </p>
