@@ -19,7 +19,7 @@
 
 那么我们在**A平台**买B赢，在**B平台**买A赢，就可以保证无论A-B两支球队哪支球队获胜，我们都能获得稳定的收益。====================================================================================================
 
-**实时体育赔率 API**是一个免费的、开放源代码的 API，可以跟踪美国各地的博彩公司提供的任何给定的体育赛事的当前赔率。
+实时体育赔率API是一个免费的、开放源代码的 API，可以跟踪美国各地的博彩公司提供的任何给定的体育赛事的当前赔率。
 
 通过 API 的数据，该程序能够找到在八个最近即将到来的体育赛事中的所有可能的套利机会。一旦程序找到这些机会并进行了必要的计算以使用户了解输出，它会将所有发现写入一个 Excel 文件供用户访问。
 
@@ -35,6 +35,6 @@
 
 4.表格中项目名称全部替换为中文
 
-5.不需要倒来倒去，点击  就可以直接运行。
+5.不需要倒来倒去，点击 [Colab_AutomaticRobot](https://colab.research.google.com/drive/1DbPgAVf0D_Q_bmYM20R5zxgKsqftWjgt?usp=sharing](https://colab.research.google.com/drive/12AEObDy5F6VkHBSCQ605j6MpicLm1Q8Y#scrollTo=9d71f761) 就可以直接运行。
 
-[Colab_AutomaticRobot]([https://colab.research.google.com/drive/1DbPgAVf0D_Q_bmYM20R5zxgKsqftWjgt?usp=sharing](https://colab.research.google.com/drive/12AEObDy5F6VkHBSCQ605j6MpicLm1Q8Y#scrollTo=9d71f761))
+
