@@ -6,7 +6,9 @@
 
 *以上是输出Excel文件的示例。*
 
-## 此项目鉴于**ryankrumenacker/ports-betting-arbitrage-project**项目修改而来。
+## 此项目鉴于 [ryankrumenacker/ports-betting-arbitrage-project]([https://openai.com](https://github.com/ryankrumenacker/sports-betting-arbitrage-project))
+
+项目修改而来。
 
 利用**实时体育赔率 API**（https://the-odds-api.com/） 获取数据，整理统计后在在全球即将到来的体育赛事中寻找赔率差的套利机会。========================================================
 ## 简单的比喻：
@@ -23,7 +25,7 @@
 
 该文件包括**ID**和**Sport Key**（这两个指标都是针对实时体育赔率 API 的特定指标），以及每个博彩公司的每个相应赌注的**比赛时间**、**预期收益**、**博彩平台**、**球队名称**、**赔率、**和**购买金额**。文件中的每一行都代表一个套利机会。
 
-###优化了哪些：
+### 优化了哪些：
 
 1.删除API_KEY.txt文件，在Colab执行文件中添加即可，不需要调用
 
