@@ -29,9 +29,9 @@
 
 2.所有代码尽量详尽的增加了中文注释，对小白更友好。
 
-3.表格添加了比赛时间单元格
+3.表格添加了**比赛时间**单元格
 
-4.表格中项目名称全部替换为中文
+4.表格中项目名称全部修改为中文
 
 5.不需要倒来倒去，点击[Colab_AutomaticRobot](https://colab.research.google.com/drive/12AEObDy5F6VkHBSCQ605j6MpicLm1Q8Y#scrollTo=9d71f761)就可以直接运行。
 
